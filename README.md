@@ -1,3 +1,3 @@
 # td
 
-Design and static pages and on heroku
+Design and static pages tindog
